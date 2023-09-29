@@ -1,4 +1,4 @@
-# React-Leaflet Demo
+# Demo ANSOL
 
 The purpose of this project is to show a minimal example, of how-to use Leaflet whithin React.
 
@@ -31,20 +31,6 @@ yarn start
 Then open it on a browser, at: 
 
 http://localhost:5000
-
-## Deploy
-
-*Please ignore this part, if you just want to run the application on local!*
-
-This application was deployed at heroku
-
-``` bash
-git push heroku master
-```
-
-You can view the deployed application on:
-
-- https://leaflet-react.herokuapp.com/
 
 ![](Mariglianella.png)
 
