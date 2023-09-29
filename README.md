@@ -15,10 +15,10 @@ To support geocoding, the [open cage API client](https://www.npmjs.com/package/o
 ## INSTALL
 
 First [sign up](https://opencagedata.com/users/sign_up) to get a free API key from OpenCage.
-Then create a .env file on the root folder of this project, with the following content:
+Then create an environment variable with your API Key:
 
 ``` bash
-REACT_APP_OCD_API_KEY=[Your-api-key]
+export REACT_APP_OCD_API_KEY=[Your-api-key]
 ```
 
 Run this application with yarn:
