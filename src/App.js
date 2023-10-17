@@ -65,7 +65,7 @@ const OCD_API_KEY = process.env.REACT_APP_OCD_API_KEY;
     <div className="App mt-3">
 
       <h1 className="mytitle">My Pretty Map</h1>
-      <Map ref='map' center={[41.38879, 2.15899]}
+      <Map ref='map' center={[38.6402333,-8.9379008]}
         onClick={this.addMarker}
       zoom={15}
       >
